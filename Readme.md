@@ -6,7 +6,14 @@
    [百度下载地址](http://rj.baidu.com/search/index/?kw=Java%2520Runtime%2520Environment)
 如果没有mindmanger2017下载的，我这里共享出百度网盘，根据自己电脑系统的位数下载指定版本即可。
 mindmanager2017 最新版下载地址 链接：http://pan.baidu.com/s/1miyUFoc 密码：jui9
+
 ***
+##### 如果没有百度网盘，可以直接从官网下载，下面给出下载地址: ######
+
+Mindmanger2017 32位下载地址： http://wm.makeding.com/iclk/?zoneid=12280 [点击下载](http://wm.makeding.com/iclk/?zoneid=12280)
+
+Mindmanger2017 64位下载地址： http://wm.makeding.com/iclk/?zoneid=12294 [点击下载](http://wm.makeding.com/iclk/?zoneid=12294)
+
 可以下载激活，界面如下：
 ##### 1.先下载程序压缩包，如下图所示  #####
 ![界面主题图](./download.png)
