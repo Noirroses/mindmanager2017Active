@@ -1,6 +1,8 @@
 # 2017-4-28 00:19:29 #
 ##  Mindmanger2017中文版激活工具  ##
-### 关于激活码，可以在咸鱼搜索 MM2017服务 即可找到，真正的一机一码。不再是插件和补丁汉化等！真正的一键激活！ ###
+### 关于激活码，可以在咸鱼搜索 MM2017服务 即可找到，真正的一机一码。不再是插件和补丁汉化等！真正的一键激活！
+#####  注意：如果您的电脑已经安装了office,请安装您office的位数下载对应版本，否则安装的最后可能会卡住哦 ，因为mm2017也是office的一个插件哦。如果office是32位的，请安装32位的mm2017，否则就安装64位的，如果没有安装office，可以任意哈。 #####
+### 下载地址 ###
 > 激活工具和mindmanager一样，都依赖于java运行环境，如果运行 启动.bat没有如下面一样出现界面。说明电脑的
    java环境没有装好，可以直接在百度软件中心，直接下载安装java即可。
    [百度下载地址](http://rj.baidu.com/search/index/?kw=Java%2520Runtime%2520Environment)
@@ -8,18 +10,13 @@
 mindmanager2017 最新版下载地址 链接：http://pan.baidu.com/s/1miyUFoc 密码：jui9
 
 ***
-##### 如果没有百度网盘，可以直接从官网下载，下面给出下载地址: ######
-
-Mindmanger2017 32位下载地址： http://wm.makeding.com/iclk/?zoneid=12280 [点击下载](http://wm.makeding.com/iclk/?zoneid=12280)
-
-Mindmanger2017 64位下载地址： http://wm.makeding.com/iclk/?zoneid=12294 [点击下载](http://wm.makeding.com/iclk/?zoneid=12294)
+##### 尽量从百度网盘下载，总被河蟹你懂的: ######
 
 可以下载激活，界面如下：
 ##### 1.先下载程序压缩包，如下图所示  #####
 ![界面主题图](./download.png)
-##### 2.双击 启动.bat，如下图所示  #####
+##### 2.把压缩包的内容全部拷贝到Mindmanger2017安装根目录，双击 启动.bat，如下图所示  #####
 ![界面主题图](./main.png)
-
 
 
 ##### 备注    #####
