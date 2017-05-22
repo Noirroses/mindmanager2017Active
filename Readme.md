@@ -16,9 +16,9 @@ mindmanager2017 最新版下载地址 链接：http://pan.baidu.com/s/1miyUFoc �
 ***
 
 # 仅仅两步教程如下：
-##### 1.安装完MM2017之后，下载激活程序压缩包，如下图所示
-![界面主题图](./download.png)
-##### 2.把ZIP压缩包的所有文件全部拷贝到Mindmanger2017安装根目录，双击”启动.bat”，如下图所示，完成激活  #####
+##### 1.安装完MM2017之后，打开MM2017再关闭，下载激活程序压缩包
+[激活程序单击下载](https://github.com/csustatf/mindmanager2017Active/archive/V1.0.zip )
+##### 2.把ZIP压缩包的所有文件全部拷贝到Mindmanger2017安装根目录，双击”启动.bat”，如下图所示，完成激活，再打开MM2017，是否永久激活，30分钟内确认收货即可享受后续版本和其他高效率软件优惠，以及优先交流探讨等。
 ![拷贝之后目录结构](./folderStruct.png)
 ![界面主题图](./main.png)
 
