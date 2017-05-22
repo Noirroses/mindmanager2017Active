@@ -22,7 +22,10 @@ mindmanager2017 最新版下载地址 链接：http://pan.baidu.com/s/1miyUFoc �
 ![拷贝之后目录结构](./folderStruct.png)
 ![界面主题图](./main.png)
 
-
+## 新书教程
+新手的话，这个给出标准教程，配合我们提供的中文软件一步一步配套做就可以很快学会。
+http://www.mindmanager.cc/rumenjiaocheng.html
+自带的模板很多，应有尽有哦。
 ##### 备注    #####
 > 有些网友反映，双击没有反应，就是没有出来界面哦。这是由于你的电脑没有安装java环境哦，
 java是很多软件运行的环境，这个就不普及了，如果有兴趣可以百度一下哦。其中Mindmanger2017
