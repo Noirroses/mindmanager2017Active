@@ -9,12 +9,12 @@
 
 ***
 # 仅仅两步教程如下：
-### 要下载的文件如下表：
+###  **下载** 的文件如下表：
 | 文件名称| 下载地址 |备注|
 |:-----:|:-----:|:-----:|
-| MM2017安装包和激活工具包| <a title="网盘下载" href="http://pan.baidu.com/s/1gf1hPQF"><img src="http://www.easyicon.net/api/resizeApi.php?id=1205802&size=32"></a> |密码 xigl|
-| Java| <a title="java下载" href="http://rj.baidu.com/search/index/?kw=Java%2520Runtime%2520Environment">  <img src="http://www.easyicon.net/api/resizeApi.php?id=1205795&size=32"> </a>|java下载|
-
+| MM2017安装包和激活工具包| <a target= "_blank" title="网盘下载" href="http://pan.baidu.com/s/1gf1hPQF"><img src="http://www.easyicon.net/api/resizeApi.php?id=1205802&size=32"></a> |密码 xigl|
+| Java| <a target= "_blank" title="java下载" href="http://rj.baidu.com/search/index/?kw=Java%2520Runtime%2520Environment">  <img src="http://www.easyicon.net/api/resizeApi.php?id=1205795&size=32"> </a>|java下载|
+![界面主题图](./soft.png)
 ##### 1.安装完MM2017之后，打开MM2017再关闭，把激活工具压缩包的2个文件拷贝到Mindmanger2017安装根目录
 ![拷贝之后目录结构](./folderStruct.png)
 ##### 2.安装java，默认就行（如果不是win10的系统请重启！再继续）双击”启动.bat”，如下图所示，把机器码发给商家，获取激活码完成激活【扫描下图二维码即可联系到商家xin19950325】最近有无良商家所谓的“思维导图产品部门”恶意复制粘贴，不停在咸鱼变换马甲和地址，坑骗网友，请大家留意,只能帮大家到这了。
@@ -34,6 +34,7 @@ java是很多软件运行的环境，这个就不普及了，如果有兴趣可�
 ```
 感谢大家的建议和支持，该教程改了很多次，采用很多购买过的网友的建议，一次一次的改版，为了更方便大家用上这款思维导图，也为了我们自己能做的更好。这里感谢真心的买家，向朋友推荐过我们的朋友，真心帮助到了朋友，给我们真诚客观评价的朋友。
 全世界见证，下次或者推荐的大大的优惠，长期更新！一并感谢,排名不分先后 ```
+
 - abin09**
 - 小丽呗0**
 - zf779346740**
@@ -44,7 +45,7 @@ java是很多软件运行的环境，这个就不普及了，如果有兴趣可�
 - tb25029**
 - sy73591818**
 - tonylee_19**
--
+- 
 -
 -
 -
