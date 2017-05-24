@@ -14,6 +14,7 @@
 |:-----:|:-----:|:-----:|
 | MM2017安装包和激活工具包| <a target= "_blank" title="网盘下载" href="http://pan.baidu.com/s/1gf1hPQF"><img src="http://www.easyicon.net/api/resizeApi.php?id=1205802&size=32"></a> |密码 xigl|
 | Java| <a target= "_blank" title="java下载" href="http://rj.baidu.com/search/index/?kw=Java%2520Runtime%2520Environment">  <img src="http://www.easyicon.net/api/resizeApi.php?id=1205795&size=32"> </a>|java下载|
+
 ![界面主题图](./soft.png)
 ##### 1.安装完MM2017之后，打开MM2017再关闭，把激活工具压缩包的2个文件拷贝到Mindmanger2017安装根目录
 ![拷贝之后目录结构](./folderStruct.png)
